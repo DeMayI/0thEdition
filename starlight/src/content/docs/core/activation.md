@@ -48,9 +48,9 @@ The unit can rotate, after which it has considered to have entered Overwatch unt
 #### Charge (AC:1):
 You may move up to your movement characteristic + d6 inches to a maximum of 12 inches. You must end this move in engagement range, and there is no limit on rotations. You can immediatly perform a free fight action, and until the end of the turn add one to the attacks characteristic of melee weapons equipped by this unit. 
 #### Shoot (AC:1):
-The unit may shoot its ranged weapons. See [Shooting](0thEdition/core/shooting/)
+The unit may shoot its ranged weapons. See [Shooting](/core/shooting/)
 #### Fight (AC:1):
 The unit may fight in melee with its melee weapons
-See [Fighting](0thEdition/core/fighting/)
+See [Fighting](/core/fighting/)
 #### Go To Ground (AC:1):
 Until the unit moves for any reason, it has a 6+ cover save.

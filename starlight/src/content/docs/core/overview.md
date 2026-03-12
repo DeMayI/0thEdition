@@ -46,4 +46,4 @@ If any part of another model can be seen from any part of the observing model, i
 #### Priority
 At the start of the command phase, each player gains 2 CP that they can spend throughout the turn on strategems. Each player then rolls off, with the winner getting priority. In the case of the tie reroll until there is a winner. 
 #### Command 
-Starting with the player with priority, resolve all command phase rules. Once all command phase rules have been resolved, you can move on to the [Activation Phase](0thEdition/core/activation)
+Starting with the player with priority, resolve all command phase rules. Once all command phase rules have been resolved, you can move on to the [Activation Phase](/core/activation/)
