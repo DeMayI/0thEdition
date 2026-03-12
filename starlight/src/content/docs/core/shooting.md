@@ -11,7 +11,7 @@ If a weapon has more than one profile, you must declare which profile is being u
 A valid target is any enemy model that is within range of that weapon, and is visible to the model equiped with the weapon. 
 
 ### 2. Make Ranged Attacks
-The shooting unit's models now makes its attacks, making a number of attacks equal to the weapons Attacks(A) characteristic, and a hit roll for each attack being made(see [Making Attacks](/core/makingattacks/) )
+The shooting unit's models now makes its attacks, making a number of attacks equal to the weapons Attacks(A) characteristic, and a hit roll for each attack being made(see [0thEdition/core/Making Attacks](/core/makingattacks/) )
 If more than one unit is selected as the target of your ranged attacks, resolve all attacks against that one unit before resolving attacks against any other unit. All attacks are considered to be happening at the same time, so if the target unit has any rules that activate or change as a result of these attacks they do not apply until all attacks have been resolved. 
 
 ### Look Out Sir!
