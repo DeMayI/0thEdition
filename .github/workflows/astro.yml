@@ -3,8 +3,7 @@
 # To get started with Astro see: https://docs.astro.build/en/getting-started/
 #
 name: Deploy Astro site to Pages
-env:
-  BUILD_PATH: "starlight"
+
 on:
   # Runs on pushes targeting the default branch
   push:
@@ -26,7 +25,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  BUILD_PATH: "." # default value when not using subfolders
+  BUILD_PATH: "starlight" # default value when not using subfolders
   # BUILD_PATH: subfolder
 
 jobs:
