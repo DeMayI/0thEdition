@@ -40,8 +40,27 @@ Each time an attack scores a hit against a non VEHICLE unit, make a wound roll f
 | 3 | 5 | 6+ |
 | 4 | 3 | 3+ |
 | 5 | 3 | 2+ |
+
 ### 3. Allocate Attack
+If an attack successfully wounds the target a unit, the controlling player must allocate that attack to one model in the target unit as follows.
+
+If a model in the target unit has already lost one or more wounds, or has already had attacks allocated to it in this phase, that atack must be allocated to that model. 
+
+The model selected must either be in engagement range of the attacking unit, or visible to at least one model in the attacking unit. If no such model exists the attack sequence ends. 
 
 ### 4. Saving Throw
+The player controlling the target unit then makes one saving throw using their models Save (Sv). To make a saving throw, roll one D6 then modifiy the result by the weapons Armor Penetration(AP). For example if the attack has an AP of -1 then 1 is subtracted from the saving throw. If the result is greater than or equal to the Save characteristic, then the throw is successful and the attack sequence ends. Otherwise the saving throw fails and that model suffers damage. An unmodifiable saving throw of 1 always fails and a saving throw can never be improved by more tha +1.
+
+#### Invulnerable Saves
+Some models have an invulnerable save listed on their datasheet. Each time an attack is allocated to a model with an invulnerable save, before making any saving throws, roll one d6. If the result is greater than or equal to the the characteristic listed then the throw is sucessfull and the attack sequence ends. A model may only ever use one invulnerable save, and if a model has more than one invulnerable save the controlling player must choose which one to use before making any invulnerable saving throws. 
+
+#### Cover Saves
+Some models have a cover save. If a model has a cover save, before making any saving throws or any invulnerable saving throws, roll one d6. If the result is greater than or equal to the models cover save, the cover successfully protects the model and the attack sequence ends. A model may only ever use one cover save, and if a model has more than one cover save its controlling player must pick which one to use before making any cover saving throws. 
+
+If a model has the MONSTER or VEHICLE keyword, an umodified result of 1-5 always fails. 
 
 ### 5. Inflict Damage
+
+
+
+#### Mortal Wounds
