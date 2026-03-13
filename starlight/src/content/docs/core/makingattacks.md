@@ -60,7 +60,10 @@ Some models have a cover save. If a model has a cover save, before making any sa
 If a model has the MONSTER or VEHICLE keyword, an umodified result of 1-5 always fails. 
 
 ### 5. Inflict Damage
-
-
+The damage inflicted is equal to the Damage (D) characteristic of the attack. For each point of damage, the model will lose one wound. If a model is reduced to 0 wounds or less, it is destroyed and removed from play, any excess damage inflicted by that attack is lost. 
 
 #### Mortal Wounds
+Some rules inflict mortal wounds on units. Each time mortal wounds are inflicted on a unit, each mortal wound inflicts one point of damage to that unit, in the same manner as allocating an attack. However, excess damage is not lost and spills over between models until there are no mortal wounds remaining. 
+
+#### Feel No Pain
+Some models have the Feel No Pain X+ listed in their abilities. Each time a model with this ability suffers damage and loses a wound(including as a result of mortal wounds), roll one d6. If the result is greater than or equal to the number denoted by 'X', that wound is ignored and not lost. If a model has more than one Feel No Pain ability you can only use one of those abilities each time the model suffers damage. 
