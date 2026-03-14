@@ -11,6 +11,7 @@ An umodified Hit roll of a 1 always fails, and an unmodified Hit roll of 6 is ca
 
 If the unit has a BS (if the attack is made by a ranged weapon) or WS (if the attack is made by a melee weapon) greater than 6, you may reroll reroll one hit dice for that unit each time it shoots/fights for each point greater than 6. 
 
+If the attack is being made by a ranged weapon, measure the shortest distance between the attacking unit and the target unit. If that range is less than or equal to the weapons Short(S) range, then no range modifiers are applied. If the range is instead less than or equal to the weapons Medium(M) range but not in Short range, a -1 to hit modifier is applied to the attack. If the weapon is less than or equal to the weapons Long(L) range, but not in Short or Medium range, a -2 to hit modifier is applied to the attack. 
 
 #### Example
 | BS/WS | Rerolls |
