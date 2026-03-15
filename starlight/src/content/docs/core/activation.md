@@ -50,7 +50,7 @@ Until the end of the turn, add 1 to this units Ballistic Skill.
 The unit can rotate, after which it has considered to have entered Overwatch until the end of the turn or until until the unit moves for any reason. While the unit is in Overwatch, when a unit starts or ends a move within 24 inches of this unit, you may interrupt them and shoot at -1 BS and cannot have any positive BS or hit roll modifiers. 
 
 #### Charge (AC:1):
-You may move up to your movement characteristic + d6 inches to a maximum of 12 inches. You must end this move in engagement range, and there is no limit on rotations. You can immediatly perform a free fight action, and until the end of the turn add one to the attacks characteristic of melee weapons equipped by this unit. 
+You may move up to your initiative characteristic + d6 inches to a maximum of 12 inches. You must end this move in engagement range, and there is no limit on rotations. You can immediatly perform a free fight action, and until the end of the turn add one to the attacks characteristic of melee weapons equipped by this unit. 
 
 #### Shoot (AC:1):
 The unit may shoot its ranged weapons. See [Shooting](/0thEdition/core/shooting/).
@@ -64,12 +64,15 @@ If in melee combat with a Vehicle, see [Vehicle](/0thEdition/core/vehicle/).
 Until the unit moves for any reason, it has a 6+ cover save.
 
 #### Manifest Psychic Power(AC:1):
-Select one psychic power the bearer knows. The bearer must roll 2d6, subtracting the difficulty rating of power from the roll. If the result is greater than or equal to the units Willpower characteristic the test is passed and the psychic power takes immediate affect. If it is failed, the power has no effect and the action is wasted. Each psychic power may only be manifested once per turn, and every time a PSYKER manifests a psychic power, subtract 1 from future psychic power tests until the end of turn for each power this PSYKER has manifested. 
+Select one psychic power the bearer knows or Smite. The bearer must roll 2d6, subtracting the difficulty rating of power from the roll. If the result is greater than or equal to the units Willpower characteristic the test is passed and the psychic power takes immediate affect. If it is failed, the power has no effect and the action is wasted. Each psychic power may only be manifested once per turn, and every time a PSYKER manifests a psychic power, subtract 1 from future psychic power tests until the end of turn for each power this PSYKER has manifested. 
 
 However, psychic powers are not without risk, as if doubles are rolled during the test the unit suffers perils of the warp, and suffers D3 mortal wounds. Suffering perils does not stop the power from taking effect if the test is successful. 
 
 ##### Deny the Witch
 If there are any enemy PSYKER models within 12" of a PSYKER as it attempts to manifest a psychic power, they may attempt to deny the witch so long as they do not exceed the maximum amount of deny the witch attempts listed on the enemy PSYKER's datasheet. To deny the witch, roll 2d6, if result is greater than or equal to the enemy psykers Willpower characteristic and the unmodified roll is greater than the unmodified roll used to manifest the power, then the psychic power has been nullified and fails to take effect. 
+
+##### Smite - Difficulty 0
+This psychic power can be can be manifested multiple times a turn, so long as it is not being manifested by the same unit. Each time this psychic power is manifested, increase its difficulty rating by 1 for that player until the end of turn. Select 1 unit within 12" of this psyker, if this power is successful it suffers d3 mortal wounds. If an umodified roll of 11+ it suffers d6 mortal wounds. 
 
 
 #### Secure Objective (AC:1):

@@ -33,34 +33,34 @@ Monsters and Vehicles can provide cover to nearby infantry. If an INFANTRY model
 #### Tracks
 1-3: The track is damaged, but still working. The vehicle can only move at half speed for the rest of the game. \
 4-5: The track is blown off, and the vehicle is rendered immobile. \
-6: The track is blown off and the resulting damage smashes the vehicles drive shaft, causing the vehicle to flip over. The wreck comes to rest d6 inches away in a random direction. And models it lands on suffer D3 mortal wounds. Roll a d6,  the crew is slain on a d6 roll of 5+. Any turret weapons mounted on the top of the tank may no longer rotate and are considered to have a 90 Degree Front Arc. Roll a d6 for each model on board, on a 5+ the unit takes one mortal wound. \
+6: The track is blown off and the resulting damage smashes the vehicles drive shaft, causing the vehicle to flip over. The wreck comes to rest d6 inches away in a random direction. And models it lands on suffer D3 mortal wounds. Roll a d6,  the crew is slain on a d6 roll of 5+. Any turret weapons mounted on the top of the tank may no longer rotate and are considered to have a 90 Degree Front Arc. Roll a d6 for each model on board, on a 5+ the unit takes one mortal wound. 
 
 #### Turret Weapon
 1-2: The turret is damaged an may only be fired if you can roll a 4+ on a D6. \
 3-4: The turret is jammed and can no longer rotate, consider the weapon to now have a 90 Degree front arc. \
 5: The gunner is killed, and the weapon may no longer be fired. \
-6: The weapon explodes, rendering it inoperable and dealing damage to the Hull equal to the D characteristic of the weapon. \
+6: The weapon explodes, rendering it inoperable and dealing damage to the Hull equal to the D characteristic of the weapon. 
 
 #### Legs
 1: The leg holds, but is slowed down and the vehicle cannot move in its next activation. \
 2-3: The vehicle is knocked sprawling. It staggers D3 inches in a random direction. \
 4-5: The leg is seriously damaged, and the vehicle can now only limp at half its movement characteristic. \
-6: The leg is destroyed and the vehicle crashes to the ground. It may no longer move or rotate. \
+6: The leg is destroyed and the vehicle crashes to the ground. It may no longer move or rotate. 
 
 #### Arms
 1-2. The arm is hit and partially paralyzed, any ranged weapons my still be used, but no melee weapons can be used in close combat.  \
 3-4. The weapons on the arm are damage, and may only be used/fired if you can roll a 4+ on a d6
 5: The arm is torn from the body, and any weapons mounted to it are destroyed. \
-6:The arm explodes and any weapons mounted to it are considered inoperable. If the arm had any ranged weapons, they do damage to the hull equal to their damage characteristic. \
+6:The arm explodes and any weapons mounted to it are considered inoperable. If the arm had any ranged weapons, they do damage to the hull equal to their damage characteristic. 
 
 #### Hull/Main Body
 1: Any hull mounted weapons are destroyed. If there are no hull mounted weapons, reroll \
 2: The attack damages the engine of the vehicle, and the vehicle can only move at half of its movement characteristic.  \
 3:The attack disables the engine of the vehicle, rendering it unable to move or rotate.  \
 4-5:An explosion tears through the crew compartment, killing the crew  on a d6 roll of 4+. Roll a d6 for each model on board, on a 4+ the unit suffers one mortal wound. \
-6:The vehicle’s ammunition explodes, destroying the vehicle. Any units with 3 Inches or within 6 inches who failed to roll a 4+ on a d6 take d3 mortal wounds, or d6 mortal wounds if the vehicle is titanic. \
+6:The vehicle’s ammunition explodes, destroying the vehicle. Any units with 3 Inches or within 6 inches who failed to roll a 4+ on a d6 take d3 mortal wounds, or d6 mortal wounds if the vehicle is titanic. 
 
 #### Sponsons
 1:The weapon is damaged an may only be fired if you can roll a 4+ on a D6. \
 2-5:The weapon is destroyed and can no longer be used. \
-6:The weapon explodes, causing damage to the Hull equal to the D characteristic of the weapon. \
+6:The weapon explodes, causing damage to the Hull equal to the D characteristic of the weapon. 

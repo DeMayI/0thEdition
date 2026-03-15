@@ -15,7 +15,7 @@ The shooting unit's models now makes its attacks, making a number of attacks equ
 If more than one unit is selected as the target of your ranged attacks, resolve all attacks against that one unit before resolving attacks against any other unit. All attacks are considered to be happening at the same time, so if the target unit has any rules that activate or change as a result of these attacks they do not apply until all attacks have been resolved. 
 
 ### Look Out Sir!
-Models cannot target a unit with the CHARACTER keyword so long as that unit meets all of the following conditions:
+Models cannot target a unit with the CHARACTER keyword with ranged attacks or psychic abilties so long as that unit meets all of the following conditions:
 - Does not have the VEHICLE/MONSTER Keyword
 - Is within 3" of a friendly non CHARACTER Unit
 - Is not the closest enemy unit to any model in the attacking unit

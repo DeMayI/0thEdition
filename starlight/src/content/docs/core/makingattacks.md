@@ -5,7 +5,7 @@ description: An overview of how to make attacks
 
 ### 1. Hit Roll
 When a model makes an attack, you must first make a Hit roll by rolling one D6. 
-If the result of that hit roll is greater than or equal to 7 minus the models BS (If the attack is being made by a ranged weapon) or WS(If the attack is beng made with a melee weapon), then the hit roll succeds, otherwise the attack fails and the sequence ends. 
+If the result of that hit roll is greater than or equal to 7 minus the models BS (If the attack is being made by a ranged weapon) then the hit roll succeds, otherwise the attack fails and the sequence ends. 
 
 An umodified Hit roll of a 1 always fails, and an unmodified Hit roll of 6 is called a critical hit and is always successful. A hit roll can never be modified by more than +1. 
 
@@ -21,6 +21,13 @@ If the attack is being made by a ranged weapon, measure the shortest distance be
 | 8 | 2 |
 | 9 | 3 |
 
+If the attack is made with a melee weapon compare the targets weapon skill with the bearers weapon skill using the table below.
+
+| Your WS vs Target WS | D6 Result Required |
+| ----- | ----- |
+| Your WS is greater than Target WS | 3+ |
+| Your WS is less than or equal to Target WS | 4+ |
+| Your WS is less than or equal to half of Target WS | 5+ |
 
 ### 2. Wound Roll
 Each time an attack scores a hit against a non VEHICLE unit, make a wound roll for that attack by rolling one D6 to see if the attack successfully wounds the target unit. The result required is determined by comparing the attack's Strength(S) characteristic with the target's Toughness (T) characteristic, as shown below. See [Vehicles](/0thEdition/core/vehicle) for information how to handle attacking vehicles. 
