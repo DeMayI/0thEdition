@@ -14,4 +14,4 @@ Before performing any attacks, the unit first makes a pile in move of 3 inches w
 
 Each model in engagement range can then make attacks with one of its melee weapons, which must be allocated to a unit within engagement range of that model. See [Making Attacks](/0thEdition/core/makingattacks/) for what to do next.
 
-
+After a unit has fought, it can make a consolidation move of 3 inches closer to the nearest enemy unit. If units are fighting simultaneously, the unit that made a charge moves first. Otherwise roll off to determine who moves first.
