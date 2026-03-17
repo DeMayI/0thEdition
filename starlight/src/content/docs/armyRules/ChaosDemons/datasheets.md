@@ -23,7 +23,7 @@ description: CODEX CHAOS DEAMONS
 
 | Melee Weapons | Abilities | IM | A | S | AP | D | Cost |
 | ----- | ---- | --- | --- | --- | --- | --- | --- |
-| Bileblade| Extra Attacks  Purtid offering Poison 2+| 0 | 3 | 5 | -2 | 1 |5 points |
+| Bileblade| Extra Attacks  Purtid offering Poison 2+| 0 | 3 | 5 | -2 | 1 | 5pts |
 | Bilesword-strike|Poison 4+ | -1 | 7 | 8 | -3 | D6 |
 | Bilesword-sweep|Cleave Poison 4+ | -1 | 14 | 4 | -1 | 1 | 
 | Doomsday bell|Poison 3+ Reverberating summons | 0 | 7 | 5 | -2 | 1 | 5pts |
