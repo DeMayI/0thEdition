@@ -73,7 +73,7 @@ OVERLORD or LORD model only. Add 1 to the Toughness and Wounds characteristic of
 This weapon replaces the Tachyon Arrow
 | Ranged Weapons | Abilites | Short Range | Medium Range | Long Range | A | S | AP | D | Cost |
 | ------ | ---- | ---- | ---- | ---- | --- | --- | --- | --- | --- |
-| Arrow of Eternity | Assault One Shot | 60" | 90" | 120" | 1 | 14  | -5 | D3+3 | |
+| Arrow of Eternity | Assault One Shot | 60" | 90" | 120" | 1 | 14 | -5 | D3+3 | |
 
 ### Orb of Eternity
 Model with resurrection orb only. This relic replaces a resurrection orb. Once per battle the bearer may use this relic as a free action. Select one friendly NECRON INFANTRY unit with 6" of the bearer(Excluding C'TAN SHARD units). That units resurrection protocols activate, but it reanimates d3+4 instead of d3. (This is better than a regular reanimation orb which is d3+3)
@@ -93,7 +93,7 @@ Bringer of Death: Invuln Saves cannot be taken against this weapon.
 Model with the staff of light only. Voltaic Staff replaces that weapon with the following profile.
 | Ranged Weapons | Abilites | Short Range | Medium Range | Long Range | A | S | AP | D | Cost |
 | ------ | ---- | ---- | ---- | ---- | --- | --- | --- | --- | --- |
-| Voltaic Staff | Tesla 2 | 9" | 12" | 18" | 4 | 6 | -2 | 1 | |
+| Voltaic Staff | Tesla 2 Assault | 9" | 12" | 18" | 2 | 6 | -2 | 1 | |
 ## Army Strategems
 
 ### Resurrection Protocols 1CP
