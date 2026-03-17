@@ -78,9 +78,10 @@ Example Datasheet in Markdown
 ## Datasheet Examples
 
 ### Intercessor Squad
-| M | BS | WS | T | W | Sv |  I | AC | Ld | CL | Wil | Int |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 6" | 4 | 4 | 4 | 1 | 3+ | 4 | 3 | 6+ | 6+ | 6+ | 6+ |
+| M | BS | WS | T | W | Sv | Inv | I | AC | Ld | CL | Wil | Int |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 7" | 4 | 4 | 4 | 1 | 3+ | N/A | 4 | 3 | 6+ | 6+ | 6+ | 6+ |
+
 
 ##### Weapons
 | Ranged Weapons | Abilites | Short Range | Medium Range | Long Range | A | S | AP | D | Cost |
@@ -129,9 +130,9 @@ Every model is equipped with bolt pistol, bolt rifle, and close combat weapon.
 ## Datasheet Examples
 
 ### Intercessor Squad
-| M | BS | WS | T | W | Sv |  I | AC | Ld | CL | Wil | Int |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 6" | 4 | 4 | 4 | 1 | 3+ | 4 | 3 | 6+ | 6+ | 6+ | 6+ |
+| M | BS | WS | T | W | Sv | Inv | I | AC | Ld | CL | Wil | Int |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 7" | 4 | 4 | 4 | 1 | 3+ | N/A | 4 | 3 | 6+ | 6+ | 6+ | 6+ |
 
 ##### Weapons
 | Ranged Weapons | Abilites | Short Range | Medium Range | Long Range | A | S | AP | D | Cost |
