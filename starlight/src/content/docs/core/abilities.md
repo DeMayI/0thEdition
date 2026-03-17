@@ -65,3 +65,7 @@ On an umodified hit roll of 1, the bearers unit suffers 1 mortal wound. If the u
 
 ### Extra Attacks
 Weapons with this ability may always be used when the unit fights in addition to other weapons, even if you did not select this weapon in the When Models Fight step. 
+
+### X Shot
+Weapons with this ability may only be fired X times per battle. 
+

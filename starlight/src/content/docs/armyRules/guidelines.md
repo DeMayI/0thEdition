@@ -142,8 +142,8 @@ Every model is equipped with bolt pistol, bolt rifle, and close combat weapon.
 | Bolt Pistol | Pistol | 6" | 9" | 12" | 1 | 4 | 0 | 1 | 
 | Bolt Rifle | Assault | 12" | 18" | 24" | 2 | 4 | 0 | 1 | 
 | Hand Flamer | Ignores Cover Pistol Torrent | N/A | N/A | 12" | D6 | 3 | 0 | 1 | 5pts |
-| Plasma Pistol - standard | Pistol Breaching 6+| 6" | 9" | 12" | 1 | 5 | -2 | 1 | 5pts |
-| Plasma pistol - supercharge | Hazardous Pistol Breaching 5+ | 6" | 9" | 12" | 1 | 6 | -2 | 1 | 5pts |
+| Plasma Pistol - standard | Pistol Breaching 5+| 6" | 9" | 12" | 1 | 5 | -2 | 1 | 5pts |
+| Plasma pistol - supercharge | Hazardous Pistol Breaching 4+ | 6" | 9" | 12" | 1 | 6 | -2 | 1 | 5pts |
 
 | Melee Weapons | Abilities | IM | A | S | AP | D | Cost |
 | ----- | ---- | --- | --- | --- | --- | --- | --- |
@@ -182,10 +182,10 @@ Every model is equipped with bolt pistol, bolt rifle, and close combat weapon.
 | Bolter | | 12" | 18" | 24" | 2 | 4 | 0 | 1 | 
 | Grenade launcher-frag | BLAST | 12" | 18" | 24" | D3 | 4 | 0 | 1 | 5pts |
 | Grenade launcher-krak | BLAST | 12" | 18" | 24" | 1 | 6 | -2 | 2 | 5pts |
-| Plasma pistol - standard | Pistol Breaching 6+| 6" | 9" | 12" | 1 | 5 | -2 | 1 | 5pts |
-| Plasma pistol - supercharge | Hazardous Pistol Breaching 5+ | 6" | 9" | 12" | 1 | 6 | -2 | 1 | 5pts |
-| Plasma gun - standard |  Breaching 6+ Sustained Fire 1 | 12" | 18" | 24" | 1 | 5 | -2 | 1 | 5pts |
-| Plasma gun - supercharge | Hazardous  Breaching 5+ Sustained Fire 1 | 12" | 18" | 24" | 1 | 6 | -2 | 1 | 5pts |
+| Plasma pistol - standard | Pistol Breaching 5+| 6" | 9" | 12" | 1 | 5 | -2 | 1 | 5pts |
+| Plasma pistol - supercharge | Hazardous Pistol Breaching 4+ | 6" | 9" | 12" | 1 | 6 | -2 | 1 | 5pts |
+| Plasma gun - standard |  Breaching 5+ Sustained Fire 1 | 12" | 18" | 24" | 1 | 5 | -2 | 1 | 5pts |
+| Plasma gun - supercharge | Hazardous  Breaching 4+ Sustained Fire 1 | 12" | 18" | 24" | 1 | 6 | -2 | 1 | 5pts |
 | Lascannon | Heavy(S) | 24" | 36" | 48" | 1 | 8 | -3 | 3 | 10pts |
 | Meltagun | Melta 2 | 6" | 9" | 12" | 1 | 8 | -4 | 2 | 5 pts |
 | Multi-melta | Melta 2 | 9" | 12" | 18" | 2 | 9 | -4 | 2 | 20pts |

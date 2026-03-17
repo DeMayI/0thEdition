@@ -63,7 +63,7 @@ The player controlling the target unit then makes one saving throw using their m
 Some models have an invulnerable save listed on their datasheet. Each time an attack is allocated to a model with an invulnerable save, before making any saving throws, roll one d6. If the result is greater than or equal to the the characteristic listed then the throw is sucessfull and the attack sequence ends. A model may only ever use one invulnerable save, and if a model has more than one invulnerable save the controlling player must choose which one to use before making any invulnerable saving throws. 
 
 #### Cover Saves
-Some models have a cover save. If a model has a cover save, before making any saving throws or any invulnerable saving throws, roll one d6. If the result is greater than or equal to the models cover save, the cover successfully protects the model and the attack sequence ends. A model may only ever use one cover save, and if a model has more than one cover save its controlling player must pick which one to use before making any cover saving throws. 
+Some models have a cover save. If a model has a cover save, before making any saving throws or any invulnerable saving throws, roll one d6. If the result is greater than or equal to the models cover save, the cover successfully protects the model and the attack sequence ends. A model may only ever use one cover save, and if a model has more than one cover save its controlling player must pick which one to use before making any cover saving throws. Cover saves may only be made against ranged attacks. 
 
 If a model has the MONSTER or VEHICLE keyword, an umodified result of 1-5 always fails. 
 

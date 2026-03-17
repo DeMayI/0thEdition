@@ -13,14 +13,15 @@ Select which faction you are constructing an army for. You may only select units
 Select a detachment available to your army. You must follow all unit restrictions listed in that detachment. 
 
 ### 4. Select Units
-Select which units you want to include in your army. You must select at least 1 CHARACTER unit and the total point cost of all the units you select and their upgrades/wargear cannot exceed the battle size. When you select a unit for your army, it can take any upgrade or weapon it has access to. 
+Select which units you want to include in your army. You must select at least 1 CHARACTER unit and the total point cost of all the units you select and their upgrades/wargear cannot exceed the battle size. When you select a unit for your army, it can take any upgrade or weapon it has access to. Each relic you equip costs 1 CP. 
 
 You can only select a unit if it meets the following criteria:
 - That unit has the same faction keyword as the army you chose in step 3
 - You have enough points remaining for that unit
 - Your army does not already contain 3 units with the same datasheet name as that unit, or 6 units with the same datasheet name if that unit has the BATTLELINE or DEDICATED TRANSPORT keyword. 
 
+
 No two units can have the enhancement, and you cannot have more than 3 enhancements in your army. EPIC HEROES cannot be given enhancements, and you cannot select the same EPIC HERO more than once. 
 
 ### 5. Select Warlord
-Select a character from your army, it is your warlord and gains the WARLORD keyword. You may buy a warlord trait for that character from your army/detachment rules. You may only ever have 1 warlord trait and your warlord must share your army faction keyword. 
+Select a character from your army, it is your warlord and gains the WARLORD keyword. You may buy a warlord trait for that character from your army/detachment rules. You may only ever have 1 warlord trait and your warlord must share your army faction keyword. If you select a warlord trait pay 1 CP. 
