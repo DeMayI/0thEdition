@@ -2,6 +2,7 @@
 title: Chaos Demons
 description: CODEX CHAOS DEAMONS
 ---
+
 ## Datasheet Examples
 
 
@@ -24,8 +25,8 @@ description: CODEX CHAOS DEAMONS
 | Melee Weapons | Abilities | IM | A | S | AP | D | Cost |
 | ----- | ---- | --- | --- | --- | --- | --- | --- |
 | Bileblade| Extra Attacks  Purtid offering Poison 2+| 0 | 3 | 5 | -2 | 1 | 5pts |
-| Bilesword-strike|Poison 4+ | -1 | 7 | 8 | -3 | D6 |
-| Bilesword-sweep|Cleave Poison 4+ | -1 | 14 | 4 | -1 | 1 | 
+| Bilesword-strike | Poison 4+ | -1 | 7 | 8 | -3 | 2 |
+| Bilesword-sweep | Cleave 3" Poison 4+ | -1 | 14 | 4 | -1 | 1 | 
 | Doomsday bell|Poison 3+ Reverberating summons | 0 | 7 | 5 | -2 | 1 | 5pts |
 
 
@@ -51,3 +52,48 @@ This model can attempt to manifest two psychic powers  and attempt to deny one p
 
 ##### Unit Composition
 - 1 Great unclean one
+
+### Bloodthister
+
+| M | BS | WS | T | W | Sv | Inv |  I | AC | Ld | CL | Wil | Int |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |----|
+| 12" | 10 | 10 | 8 | 18 | 6+ | 4++ |10| 4 | 12+ | 10+ | 12+ | 8+ |
+
+
+
+##### Weapons
+| Ranged Weapons | Abilites | Short Range | Medium Range | Long Range | A | S | AP | D | Cost |
+| ------ | ---- | ---- | ---- | ---- | --- | --- | --- | --- | --- |
+| Bloodflail | Assault Breaching 5+ | 4" | 6" | 8" | 1 | 10 | -3 | d6+1 | |
+| Hellfire breath | INGORES COVER TORRENT | 8" | 12" | 16" | D6 |3 | -1 | 1 | |
+| Lash of Khorne | Assault | 10" | 12" | 14" | 6 | 6 | -1 | 1 | |
+
+
+
+| Melee Weapons | Abilities | IM | A | S | AP | D | Cost |
+| ----- | ---- | --- | --- | --- | --- | --- | --- |
+| Axe of Khorne-strike| | +1 | 8 | 10 | -3 | 2 |
+| Axe of Khorne-sweep|Cleave 3" Bloody skulls | +1 | 16 | 6 | -1 | 1 | 
+| Great axe of Khorne-strike| | 0 | 7 | 12 | -4 | D3+1 |
+| Great axe of Khorne-sweep|Cleave 3" Bloody skulls | 0 | 14 | 8 | -2 | 1 | 
+
+
+##### Wargear Options
+- The Bloodthirster Great axe of Khrone can be replaced with one of the following:
+    - 1 Axe of Khorne and 1 bloodflail 
+    - 1 Axe of Khorne and 1 lash of Khorne
+
+
+##### Abilities
+- Demonic
+- Daemon Lord of Khorne (Aura): While a friendly KHORNE LEGIONES DAEMONICA unit is within 6" of this model, each time a model in that unit makes a melee attack, add 1 to the Hit roll.
+- Relentless Carnage: At the end of the Fight, you can select one enemy unit within Engagement Range of this model and roll eight D6: for each 4+, that enemy unit suffers 1 mortal wound.
+- Greater Daemon of Khorne (Aura): While a friendly KHORNE LEGIONES DAEMONICA unit is within 6" of this model, that unit is within your army’s Shadow of Chaos.
+- Bloody skulls:Each time Each time an attack is made with such a weapon, if a Critical Hit is rolled, that attack scores 1 additional hits
+
+
+##### Pysker
+This model can attempt to deny one psychic power. If it succeeds in denying a power, the caster takes d3 mortal wounds. 
+
+##### Unit Composition
+- 1 Bloodthirster
