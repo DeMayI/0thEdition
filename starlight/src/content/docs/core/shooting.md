@@ -9,6 +9,7 @@ Each time a unit shoots, you must first select the targets of all ranged weapons
 A model may fire all of its ranged weapons, and can declare each weapon to a different target but you cannot split attacks from the same weapon across more than one target. 
 If a weapon has more than one profile, you must declare which profile is being used before making any attacks.
 A valid target is any enemy model that is within range of that weapon, and is visible to the model equiped with the weapon. 
+To determine if a unit is within range of a weapon, use the L characteristic under range as that is the maximum range of the weapon. 
 
 ### 2. Make Ranged Attacks
 The shooting unit's models now makes its attacks, making a number of attacks equal to the weapons Attacks(A) characteristic, and a hit roll for each attack being made(see [Making Attacks/](/0thEdition/core/makingattacks/) )
