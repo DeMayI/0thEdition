@@ -35,6 +35,22 @@ Weapons with this ability have the Sustained Fire X ability. However, you this w
 Models with this ability have a 4+ invulnerable save. In addition, when an attack is allocated to a model with this ability, subtract 1 from the damage characteristic of that attack to a minimum of 1. 
 
 ## Warlord Traits
+### Enduring Will
+Each time an attack is allocated to this Warlod, subtract 1 from the Damage characteristic of that attack(to a minimum of 1).
+### Eternal Madness
+Add 1 to this models WS. When this model fights, you may instead add D3 to this models WS, but it suffers 1 mortal wound. 
+### Immortal Pride
+This model may never perform a fall back move but it gains the following ability:
+Immortal Pride(Aura): While a friendly NECRON unit is within 6" of this model(Excluding C'TAN SHARD units), each time a battleshock test is taken for that unit, ignore any or all modifiers. 
+
+### Thrall of the Silent King
+Add 3" to the range of this WARLORD's aura abilities. In addition, whenever this WARLORD uses a Command Protocol abilitiy add 3" to the range of that ability. 
+
+### Implacable Conqueror(Aura)
+While a friendly NECRON(Excluding C'TAN SHARD units), is within 6" of this WARLORD, you may reroll charge rolls made for that unit. 
+
+### Honourable Combatant
+When this WARLORD is selected to fight, it may engage in honourable combat. If it does select one enemy CHARACTER unit within engagement range. Until the end of the phase, add 2 to the Attacks Characteristic of melee weapons equipped by this warlord when targeting that CHARACTER unit. 
 
 ## Relics
 
