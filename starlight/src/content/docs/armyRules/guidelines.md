@@ -115,24 +115,23 @@ Attacks depend on who is holding the weapon. IE a captain will get more attacks 
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
 | 12" | 4 | 4 | 1 | 3 | 6+ | 6+ | 6+ | 6+ |
 
-##### Hit Table
+###### Hit Table
 | D6 Result | Location Hit |
 | ---- | ---- |
 | 1-2 | Track |
 | 3-6 | Hull |
 
-##### Armor Table
+###### Armor Table
 | Location | Front | Side | Rear | HP | IP |
 | ---- | --- | --- | --- | --- | --- |
 | Tracks | 10 | 10 | 10 | 2 | 3 |
 | Hull | 12 | 11 | 10 | 3 | 4 |
 
-### Example Statlines
 ##### Land Raider
 | M | BS | WS | I | AC | Ld | CL | Wil | Int |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
 
-##### Hit Table
+###### Hit Table
 | D6 Result | Location Hit |
 | ---- | ---- |
 | 1-2 | Track |
@@ -141,7 +140,7 @@ Attacks depend on who is holding the weapon. IE a captain will get more attacks 
 
 *Select the closest one to the attacker
 
-##### Armor Table
+###### Armor Table
 | Location | Front | Side | Rear | HP | IP |
 | ---- | --- | --- | --- | --- | --- |
 | Tracks | 12 | 12 | 12 | 3 | 4 |
