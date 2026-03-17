@@ -36,9 +36,99 @@ Similarly to 10th edition, there will be detachments that represent a specific p
 ### Enhancements
 Enhancements work just like they do in 10th edition, with 1 key difference. They are not restricted to characters by default. This opens up the design space for enhancements to units like dreadnoughts without turning them into characters first! 
 
-### Datasheet Example
 
-#### Intercessor Squad
+### Format
+All army rules are to be written in markdown. Not to fear, markdown is super easy to use/write in! Some quick basics so you can write your own army rules. Make sure to make 2 markdown pages, one for the army rules and one for the datasheets. Datasheets should be grouped together by ## headers and named with ### headers. 
+
+Page Title/Description
+```md
+---
+title: My Title
+description: My description
+---
+```
+Headings use ## and ### to create headings! The more # the smaller the heading is!
+
+```md
+---
+title: Markdown Guide
+description: How to use Markdown
+---
+
+## Inline Styles
+body text
+
+### Headings
+
+```
+Tables: Create tables using the following format, The number of "-" changes how wide the cell is!
+```md
+| Syntax | Description |
+| ----- | ----- |
+| Header | Title |
+| Paragraph | Text |
+```
+| Syntax | Description |
+| ----- | ----- |
+| Header | Title |
+| Paragraph | Text |
+
+Example Datasheet in Markdown
+```md
+## Datasheet Examples
+
+### Intercessor Squad
+| M | BS | WS | T | W | Sv |  I | AC | Ld | CL | Wil | Int |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 6" | 4 | 4 | 4 | 1 | 3+ | 4 | 3 | 6+ | 6+ | 6+ | 6+ |
+
+##### Weapons
+| Ranged Weapons | Abilites | Short Range | Medium Range | Long Range | A | S | AP | D | Cost |
+| ------ | ---- | ---- | ---- | ---- | --- | --- | --- | --- | --- |
+| Astartes grenade launcher-frag | BLAST | 12" | 18" | 24" | D3 | 4 | 0 | 1 | 5pts |
+| Astartes grenade launcher-krak | BLAST | 12" | 18" | 24" | 1 | 6 | -2 | 2 | 5pts |
+| Bolt Pistol | Pistol | 6" | 9" | 12" | 1 | 4 | 0 | 1 | 
+| Bolt Rifle | Assault | 12" | 18" | 24" | 2 | 4 | 0 | 1 | 
+| Hand Flamer | Ignores Cover Pistol Torrent | N/A | N/A | 12" | D6 | 3 | 0 | 1 | 5pts |
+| Plasma Pistol - standard | Pistol Breaching 6+| 6" | 9" | 12" | 1 | 5 | -2 | 1 | 5pts |
+| Plasma pistol - supercharge | Hazardous Pistol Breaching 5+ | 6" | 9" | 12" | 1 | 6 | -2 | 1 | 5pts |
+
+| Melee Weapons | Abilities | IM | A | S | AP | D | Cost |
+| ----- | ---- | --- | --- | --- | --- | --- | --- |
+| Astartes chainsword | | 0 | 4 | 4 | -1 | 1 |
+| Close combat weapon | | 0 | 2 | 4 | 0 | 1 |
+| Power Fist | | -3 | 3 | 8 | -3 | 2 | 5pts |
+| Power Weapon | | 0 | 3 | 5 | -2 | 1 | 5pts |
+| Thunder Hammer | Cleave 2" | -2 | 3 | 7 | -3 | 2 | 5pts |
+
+##### Wargear Options
+- The Intercessor Sergeant's bolt rifle can be replaced with one of the following:
+    - 1 Astartes chainsword
+    - 1 Hand flamer
+    - 1 Plasma pistol
+    - 1 Power Weapon
+- The Intercessor Sergeant's close combat weaon can be replaced with one of the following:
+    - 1 Astartes chainsword
+    - 1 Power Fist
+    - 1 Power Weapon
+    - 1 Thunder Hammer
+- For Every 5 models in this unit, 1 model equipped with a bolt rifle can be equipped with 1 Astartes grenade launcher. 
+
+##### Abilities
+-Insert Faction Ability Here
+-Target Elimination: Each time this unit is selected to shoot, if it remained stationary this turn, add the Sustained Fire 1 ability to bolt rifles equipped by models in this unit and you can only select one enemy unit as the target of all of this units attacks.
+
+##### Unit Composition
+- 1 Intercessor Sergeant
+- 4-9 Intercessors
+Every model is equipped with bolt pistol, bolt rifle, and close combat weapon.
+```
+
+
+
+## Datasheet Examples
+
+### Intercessor Squad
 | M | BS | WS | T | W | Sv |  I | AC | Ld | CL | Wil | Int |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | 6" | 4 | 4 | 4 | 1 | 3+ | 4 | 3 | 6+ | 6+ | 6+ | 6+ |
