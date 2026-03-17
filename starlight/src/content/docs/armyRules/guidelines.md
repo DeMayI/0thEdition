@@ -130,6 +130,7 @@ Attacks depend on who is holding the weapon. IE a captain will get more attacks 
 ##### Land Raider
 | M | BS | WS | I | AC | Ld | CL | Wil | Int |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
+| 12" | 4 | 4 | 1 | 3 | 6+ | 6+ | 6+ | 6+ |
 
 ###### Hit Table
 | D6 Result | Location Hit |
