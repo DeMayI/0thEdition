@@ -83,3 +83,9 @@ Can only be done by transport models. Set up any models embarked within the tran
 
 #### Embark (AC:1):
 Select a valid unit wholly within 3 inches of the transport and not within engagement range of enemy models. The unit must be able to fit inside the transport. If sucessfull remove the unit from the board and it is considered to be embarked inside the transport. 
+
+#### Deep Strike (AC:1):
+This action may only be performed by units off the board with the DEEP STRIKE ability. Set this unit up more than 9 inches away from any enemy models. This unit can no make a Move, Run, or Fallback action until the end of turn. This action cannot be done turn 1. 
+
+#### Strategic Reserves (AC:1):
+This action may only be performed by units off the board. Set this unit up more than 9 inches away from any enemy models and within 6 inches of a board edge. This unit can no make a Move, Run, or Fallback action until the end of turn. This action cannot be done turn 1, and you cannot set up any units within the opponents deployment zone until turn 3. 

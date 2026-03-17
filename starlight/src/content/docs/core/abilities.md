@@ -62,3 +62,6 @@ Each time an attack is made with a weapon with this ability, the attack automati
 
 ### Hazardous
 On an umodified hit roll of 1, the bearers unit suffers 1 mortal wound. If the unit has the MONSTER/VEHICLE keyword, it suffers 3 mortal wounds instead. 
+
+### Extra Attacks
+Weapons with this ability may always be used when the unit fights in addition to other weapons, even if you did not select this weapon in the When Models Fight step. 

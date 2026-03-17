@@ -186,7 +186,7 @@ Every model is equipped with bolt pistol, bolt rifle, and close combat weapon.
 | Plasma pistol - supercharge | Hazardous Pistol Breaching 5+ | 6" | 9" | 12" | 1 | 6 | -2 | 1 | 5pts |
 | Plasma gun - standard |  Breaching 6+ Sustained Fire 1 | 12" | 18" | 24" | 1 | 5 | -2 | 1 | 5pts |
 | Plasma gun - supercharge | Hazardous  Breaching 5+ Sustained Fire 1 | 12" | 18" | 24" | 1 | 6 | -2 | 1 | 5pts |
-| Lascannon | Heavy(S) | 24" | 36" | 48" | 1 | S8 | -3 | 3 | 10pts |
+| Lascannon | Heavy(S) | 24" | 36" | 48" | 1 | 8 | -3 | 3 | 10pts |
 | Meltagun | Melta 2 | 6" | 9" | 12" | 1 | 8 | -4 | 2 | 5 pts |
 | Multi-melta | Melta 2 | 9" | 12" | 18" | 2 | 9 | -4 | 2 | 20pts |
 
