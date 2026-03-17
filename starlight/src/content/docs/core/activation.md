@@ -77,3 +77,9 @@ This psychic power can be can be manifested multiple times a turn, so long as it
 
 #### Secure Objective (AC:1):
 If this unit has the BATTELINE keyword and is within range of an objective you control, that objective remains under your control, even if you have no models within range of it, until your opponent controls it at the start or end of any turn.  
+
+#### Disembark (AC:1): 
+Can only be done by transport models. Set up any models embarked within the transport wholly with 3" of the transport and not within engagement range of enemy models. Cannot be done after a run action. If done after a move action the disembarked models cannot charge. 
+
+#### Embark (AC:1):
+Select a valid unit wholly within 3 inches of the transport and not within engagement range of enemy models. The unit must be able to fit inside the transport. If sucessfull remove the unit from the board and it is considered to be embarked inside the transport. 
