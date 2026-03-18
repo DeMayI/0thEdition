@@ -37,6 +37,9 @@ Models with this ability have a 4+ invulnerable save. In addition, when an attac
 ### Quantum Shielding
 Models with this ability have a 5+ invulnerable save. In addtion, when a penetration test made against models with this ability, an umodified result(The roll of the d6 excluding the strength modifier) of 1-3 always fails. 
 
+### Hardwired for Destruction:
+Each time a model with this ability makes an attack, re-roll a hit roll of 1. 
+
 ## Warlord Traits
 ### Enduring Will
 Each time an attack is allocated to this Warlod, subtract 1 from the Damage characteristic of that attack(to a minimum of 1).

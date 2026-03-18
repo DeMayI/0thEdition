@@ -7,7 +7,7 @@ description: A list of necron datasheets
 ### Overlord
 | M | BS | WS | T | W | Sv | Inv | I | AC | Ld | CL | Wil | Int |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 5" | 8 | 8 | 5 | 5 | 2+ | 4+ | 4 | 4 | 4+ | 5+ | 5+ | 5+ |
+| 5" | 8 | 8 | 5 | 5 | 2+ | 4+ | 4 | 4 | 4+ | 4+ | 5+ | 5+ |
 
 ##### Weapons
 | Ranged Weapons | Abilites | Short Range | Medium Range | Long Range | A | S | AP | D | Cost |
@@ -180,7 +180,7 @@ Every model is equipped with a Relic Gauss Blaster and Close Combat weapon.
 ### Necron Warriors
 | M | BS | WS | T | W | Sv | Inv | I | AC | Ld | CL | Wil | Int |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 5" | 4 | 4 | 4 | 1 | 4+ | N/A | 4 | 2 | 10+ | 5+ | 10+ | 10+ |
+| 5" | 4 | 4 | 4 | 1 | 4+ | N/A | 4 | 2 | 10+ | 6+ | 10+ | 10+ |
 
 ##### Weapons
 | Ranged Weapons | Abilites | Short Range | Medium Range | Long Range | A | S | AP | D | Cost |
@@ -238,10 +238,90 @@ Every model is equipped with Gauss Blaster, Close Combat Weapon
 - 5 Models: 80pts
 - 10 Models: 160pts
 ##### Keywords NECRONS, INFANTRY, BATTLELINE, IMMORTALS
+
 ## Infantry
 ### Skorpekh Destroyers
+| M | BS | WS | T | W | Sv | Inv | I | AC | Ld | CL | Wil | Int |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 8" | 4 | 4 | 5 | 3 | 3+ | N/A | 4 | 3 | 11+ | 5+ | 11+ | 11+ |
+#### Plasmacyte
+| M | BS | WS | T | W | Sv | Inv | I | AC | Ld | CL | Wil | Int |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 8" | 3 | 3 | 5 | 1 | 4+ | N/A | 4 | 2 | 11+ | 5+ | 11+ | 11+ |
+
+##### Weapons
+| Melee Weapons | Abilities | IM | A | S | AP | D | Cost |
+| ----- | ---- | --- | --- | --- | --- | --- | --- |
+| Hyperphase reap-blade | Cleave 2" | -3 | 3 | 8 | -4 | 2 |
+| Hyperphase threshers | | 0 | 4 | 5 | -3 | 1 |
+| Monomolecular proboscis | | 0 | 1 | 4 | -1 | 1 |
+
+
+##### Abilities
+- Reanimation Protocols
+- Hardwired for Destruction
+- Infused Madness: While this unit contains a Canoptek Plasmacyte Model, before this unit fights, you may activate this ability. If you do, roll one d6: on a 1-2, one model in this unit is destroyed. Regardless of the result, until the end of the turn, add 1 to the Strength and attacks characteristic of models in this unit. You may only activate this ability once per turn. 
+
+##### Unit Composition
+- 3-6 Skorpekh Destroyers \
+- 0-1 Canoptek Plasmacyte \
+For every 3 models in this unit, one model is equipped with hyperhase reap-blade. Every other Skorpekh Destroyer is equipped with hyperhase threshers. \
+The Canoptek Plasmacyte is equipped with monomelcular probscis. 
+##### Keywords NECRONS, INFANTRY, DESTROYER CULT, SKORPEKH DESTROYERS
+
 ### Lychguard
+| M | BS | WS | T | W | Sv | Inv | I | AC | Ld | CL | Wil | Int |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 5" | 4 | 4 | 5 | 2 | 2+ | N/A | 4 | 3 | 8+ | 5+ | 8+ | 8+ |
+
+##### Weapons
+| Melee Weapons | Abilities | IM | A | S | AP | D | Cost |
+| ----- | ---- | --- | --- | --- | --- | --- | --- |
+| Warscythe | | 0 | 3 | 7 | -3 | 2 |
+| Hyperphase Sword | | 0 | 3 | 5 | -3 | 1 |
+
+##### Wargear Abilities
+Dispersion Shield:The bearer has a 4+ invulnerable save
+
+##### Wargear Options
+- All the models in the unit may have their Warscythe replaced with a Hyperphase sword and dispersion shield
+
+##### Abilities
+- Reanimation Protocols
+- Guardian Protocols: While under the effect of a Command Protocol, each time an attack targets this unit, if the Strength characteristic of that attack si greater than this units Toughness charactersitic, subtract 1 from the wound roll. 
+
+##### Unit Composition
+- 5-10 Lychguard \
+Every model is equipped with Gauss Blaster, Close Combat Weapon
+##### Unit Cost
+- 5 Models: 130pts
+- 10 Models: 260pts
+##### Keywords NECRONS, INFANTRY, LYCHGUARD
+
 ### Flayed Ones
+| M | BS | WS | T | W | Sv | Inv | I | AC | Ld | CL | Wil | Int |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 5" | 4 | 4 | 4 | 1 | 4+ | N/A | 4 | 3 | 11+ | 6+ | 11+ | 11+ |
+
+##### Weapons
+| Melee Weapons | Abilities | IM | A | S | AP | D | Cost |
+| ----- | ---- | --- | --- | --- | --- | --- | --- |
+| Flayer claws | | 0 | 2 | 4 | -1 | 1 |
+
+
+##### Abilities
+- Reanimation Protocols
+- Infiltrators
+- Stealth
+- Flesh Hunger: Each time a model in this unit makes a melee attack, if the target of that attack has the INFANTRY keyword, melee weapons equipped by models in this unit have the SUSTAINED FIRE 1 ability, and can ignore any jams from that ability. 
+
+##### Unit Composition
+- 5-10 Flayed Ones \
+Every model is equipped with Flayer Claws. 
+##### Unit Cost
+- 5 Models: 60pts
+- 10 Models: 120pts
+##### Keywords NECRONS, INFANTRY, FLAYED ONES
 
 ## Vehicles
 ### Canoptek Doomstalker
