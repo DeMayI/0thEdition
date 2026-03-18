@@ -5,9 +5,9 @@ description: A list of necron datasheets
 
 ## Characters
 ### Overlord
-| M | BS | WS | T | W | Sv | Inv | I | AC | Ld | CL | Wil | Int |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 5" | 8 | 8 | 5 | 5 | 2+ | 4+ | 4 | 4 | 4+ | 4+ | 5+ | 5+ |
+| M | BS | WS | T | W | Sv | Inv | I | AC | Ld | CL | Wil | Int | OC |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |  
+| 5" | 8 | 8 | 5 | 5 | 2+ | 4+ | 4 | 4 | 4+ | 4+ | 5+ | 5+ | 1 |
 
 ##### Weapons
 | Ranged Weapons | Abilites | Short Range | Medium Range | Long Range | A | S | AP | D | Cost |
@@ -46,9 +46,9 @@ Every model is equipped with tachyon arrow and hyperphase glaive.
 
 ##### Keywords NECRONS, INFANTRY, CHARACTER, OVERLORD
 ### Technomancer
-| M | BS | WS | T | W | Sv | Inv | I | AC | Ld | CL | Wil | Int |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 5" | 6 | 6 | 4 | 4 | 3+ | N/A | 4 | 3 | 7+ | 5+ | 6+ | 4+ |
+| M | BS | WS | T | W | Sv | Inv | I | AC | Ld | CL | Wil | Int | OC |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
+| 5" | 6 | 6 | 4 | 4 | 3+ | N/A | 4 | 3 | 7+ | 5+ | 6+ | 4+ | 1 |
 
 ##### Weapons
 | Ranged Weapons | Abilites | Short Range | Medium Range | Long Range | A | S | AP | D | Cost |
@@ -82,9 +82,9 @@ Every model is equipped with a Staff of light.
 
 ##### Keywords NECRONS, INFANTRY, CHARACTER, CRYPTEK, TECHNOMANCER
 ### Chronomancer
-| M | BS | WS | T | W | Sv | Inv | I | AC | Ld | CL | Wil | Int |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 8" | 6 | 6 | 4 | 4 | 3+ | 4+ | 4 | 3 | 7+ | 5+ | 6+ | 4+ |
+| M | BS | WS | T | W | Sv | Inv | I | AC | Ld | CL | Wil | Int | OC |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
+| 8" | 6 | 6 | 4 | 4 | 3+ | 4+ | 4 | 3 | 7+ | 5+ | 6+ | 4+ | 1 |
 
 ##### Weapons
 | Ranged Weapons | Abilites | Short Range | Medium Range | Long Range | A | S | AP | D | Cost |
@@ -117,9 +117,9 @@ Every model is equipped with a aeonstave and chronotendrils.
 
 ##### Keywords NECRONS, INFANTRY, CHARACTER, CRYPTEK, CHRONOMANCER
 ### Royal Warden
-| M | BS | WS | T | W | Sv | Inv | I | AC | Ld | CL | Wil | Int |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 6" | 6 | 6 | 5 | 4 | 3+ | N/A | 4 | 3 | 7+ | 5+ | 6+ | 4+ |
+| M | BS | WS | T | W | Sv | Inv | I | AC | Ld | CL | Wil | Int | OC |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
+| 6" | 6 | 6 | 5 | 4 | 3+ | N/A | 4 | 3 | 7+ | 5+ | 6+ | 4+ | 1 |
 
 ##### Weapons
 | Ranged Weapons | Abilites | Short Range | Medium Range | Long Range | A | S | AP | D | Cost |
@@ -147,9 +147,9 @@ Every model is equipped with a Plasmic Lance
 
 ##### Keywords NECRONS, INFANTRY, CHARACTER, CRYPTEK, PLASMANCER
 ### Plasmancer
-| M | BS | WS | T | W | Sv | Inv | I | AC | Ld | CL | Wil | Int |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 6" | 6 | 6 | 4 | 4 | 3+ | N/A | 4 | 3 | 7+ | 5+ | 6+ | 4+ |
+| M | BS | WS | T | W | Sv | Inv | I | AC | Ld | CL | Wil | Int | OC |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
+| 6" | 6 | 6 | 4 | 4 | 3+ | N/A | 4 | 3 | 7+ | 5+ | 6+ | 4+ | 1 |
 
 ##### Weapons
 | Ranged Weapons | Abilites | Short Range | Medium Range | Long Range | A | S | AP | D | Cost |
@@ -178,9 +178,9 @@ Every model is equipped with a Relic Gauss Blaster and Close Combat weapon.
 ##### Keywords NECRONS, INFANTRY, CHARACTER, CRYPTEK, PLASMANCER
 ## Battleline
 ### Necron Warriors
-| M | BS | WS | T | W | Sv | Inv | I | AC | Ld | CL | Wil | Int |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 5" | 4 | 4 | 4 | 1 | 4+ | N/A | 4 | 2 | 10+ | 6+ | 10+ | 10+ |
+| M | BS | WS | T | W | Sv | Inv | I | AC | Ld | CL | Wil | Int | OC |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
+| 5" | 4 | 4 | 4 | 1 | 4+ | N/A | 4 | 2 | 10+ | 6+ | 10+ | 10+ | 2 |
 
 ##### Weapons
 | Ranged Weapons | Abilites | Short Range | Medium Range | Long Range | A | S | AP | D | Cost |
@@ -210,9 +210,9 @@ Every model is equipped with Gauss Flayer, Close Combat Weapon
 ##### Keywords NECRONS, INFANTRY, BATTLELINE, NECRON WARRIORS
 
 ### Immortals
-| M | BS | WS | T | W | Sv | Inv | I | AC | Ld | CL | Wil | Int |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 5" | 4 | 4 | 5 | 1 | 3+ | N/A | 4 | 3 | 8+ | 5+ | 8+ | 8+ |
+| M | BS | WS | T | W | Sv | Inv | I | AC | Ld | CL | Wil | Int | OC |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
+| 5" | 4 | 4 | 5 | 1 | 3+ | N/A | 4 | 3 | 8+ | 5+ | 8+ | 8+ | 2 |
 
 ##### Weapons
 | Ranged Weapons | Abilites | Short Range | Medium Range | Long Range | A | S | AP | D | Cost |
@@ -241,13 +241,13 @@ Every model is equipped with Gauss Blaster, Close Combat Weapon
 
 ## Infantry
 ### Skorpekh Destroyers
-| M | BS | WS | T | W | Sv | Inv | I | AC | Ld | CL | Wil | Int |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| M | BS | WS | T | W | Sv | Inv | I | AC | Ld | CL | Wil | Int | OC |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
 | 8" | 4 | 4 | 5 | 3 | 3+ | N/A | 4 | 3 | 11+ | 5+ | 11+ | 11+ |
 #### Plasmacyte
-| M | BS | WS | T | W | Sv | Inv | I | AC | Ld | CL | Wil | Int |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 8" | 3 | 3 | 5 | 1 | 4+ | N/A | 4 | 2 | 11+ | 5+ | 11+ | 11+ |
+| M | BS | WS | T | W | Sv | Inv | I | AC | Ld | CL | Wil | Int | OC |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
+| 8" | 3 | 3 | 5 | 1 | 4+ | N/A | 4 | 2 | 11+ | 5+ | 11+ | 11+ | 1 |
 
 ##### Weapons
 | Melee Weapons | Abilities | IM | A | S | AP | D | Cost |
@@ -270,9 +270,9 @@ The Canoptek Plasmacyte is equipped with monomelcular probscis.
 ##### Keywords NECRONS, INFANTRY, DESTROYER CULT, SKORPEKH DESTROYERS
 
 ### Lychguard
-| M | BS | WS | T | W | Sv | Inv | I | AC | Ld | CL | Wil | Int |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 5" | 4 | 4 | 5 | 2 | 2+ | N/A | 4 | 3 | 8+ | 5+ | 8+ | 8+ |
+| M | BS | WS | T | W | Sv | Inv | I | AC | Ld | CL | Wil | Int | OC |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
+| 5" | 4 | 4 | 5 | 2 | 2+ | N/A | 4 | 3 | 8+ | 5+ | 8+ | 8+ | 2 |
 
 ##### Weapons
 | Melee Weapons | Abilities | IM | A | S | AP | D | Cost |
@@ -299,9 +299,9 @@ Every model is equipped with Gauss Blaster, Close Combat Weapon
 ##### Keywords NECRONS, INFANTRY, LYCHGUARD
 
 ### Flayed Ones
-| M | BS | WS | T | W | Sv | Inv | I | AC | Ld | CL | Wil | Int |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 5" | 4 | 4 | 4 | 1 | 4+ | N/A | 4 | 3 | 11+ | 6+ | 11+ | 11+ |
+| M | BS | WS | T | W | Sv | Inv | I | AC | Ld | CL | Wil | Int | OC |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
+| 5" | 4 | 4 | 4 | 1 | 4+ | N/A | 4 | 3 | 11+ | 6+ | 11+ | 11+ | 1 |
 
 ##### Weapons
 | Melee Weapons | Abilities | IM | A | S | AP | D | Cost |
@@ -325,9 +325,9 @@ Every model is equipped with Flayer Claws.
 
 ## Vehicles
 ### Canoptek Doomstalker
-| M | BS | WS | I | AC | Ld | CL | Wil | Int |
+| M | BS | WS | I | AC | Ld | CL | Wil | Int | OC |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
-| 8" | 3 | 3 | 1 | 3 | 10+ | 6+ | 10+ | 10+ |
+| 8" | 3 | 3 | 1 | 3 | 10+ | 6+ | 10+ | 10+ | 3 | 
 
 ###### Hit Table
 | D6 Result | Location Hit |
@@ -366,9 +366,9 @@ This model is equipped with: Doomsday Blaster; Twin gauss flayer; Doomstalker Li
 
 ## Monsters
 ### C'tan Shard of the Nightbringer
-| M | BS | WS | T | W | Sv | Inv | I | AC | Ld | CL | Wil | Int |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 8" | 10 | 10 | 8 | 10 | 3+ | 4+ | 4 | 4 | 11+ | 4+ | 6+ | 6+ |
+| M | BS | WS | T | W | Sv | Inv | I | AC | Ld | CL | Wil | Int | OC |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
+| 8" | 10 | 10 | 8 | 10 | 3+ | 4+ | 4 | 4 | 11+ | 4+ | 6+ | 6+ | 3 |
 
 ##### Weapons
 | Melee Weapons | Abilities | IM | A | S | AP | D | Cost |
@@ -382,9 +382,11 @@ Entropic Blow:Each time an attack is made with this weapon, invulnerable saving 
 - Reanimation Protocols
 - Necrodermis
 - Drain life: Each time this model makes a melee attack that is allocated to an enemy model, that model cannot use any rules to ignore the wounds it loses.(IE no FNPs and -1 damage does not apply just like in 9th).
-- Gaze of Death:This unit may activate this ability once per turn as a 1 AC action. When this ability is activated, select 1 enemy unit within 9" and visible to this C'TAN SHARD. Roll 3 d6s: for each 4+ that unit suffers D3 mortal wounds. 
 - Reality Unravels: When this model is destroyed, roll one D6 before removing it from play. On a 4+ it explodes, and each unit with 6" suffers d3 mortal wounds. 
 - Enslaved Star god:This model may never have a Relic or a Warlod Trait, and cannot be selected as your warlord. 
+
+##### C'tan Powers
+This unit knows the Gaze of Death C'tan power and one other C'tan power from the Powers of the C'tan. This unit can use up to two of the C'tan powers it knows each turn. 
 
 ##### Unit Composition
 - 1 C'tan Shard of the Nightbringer \
@@ -394,10 +396,106 @@ Every model is equipped with Scythe of the Nightbringer.
 
 ##### Keywords NECRONS, MONSTER, CHARACTER, FLY, C'TAN SHARD, EPIC HERO, C'TAN SHARD OF THE NIGHTBRINGER
 ### C'tan Shard of the Void Dragon
+| M | BS | WS | T | W | Sv | Inv | I | AC | Ld | CL | Wil | Int | OC |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
+| 8" | 9 | 9 | 8 | 10 | 3+ | 4+ | 4 | 4 | 11+ | 4+ | 6+ | 6+ | 3 |
+
+##### Weapons
+| Ranged Weapons | Abilites | Short Range | Medium Range | Long Range | A | S | AP | D | Cost |
+| ------ | ---- | ---- | ---- | ---- | --- | --- | --- | --- | --- |
+| Spear of the Void Dragon | Line, Voltaic Armorbane | 9" | 12" | 18" | 1 | 8 | -3 | 3 | |
+
+Line: Each time an attack is made with this weapon, if a hit is scored, draw a straight line between the closes point of this models base and that of the closest model in the target unit. An additional hit is scored against each other unit this line passes over. \
+Voltaic: Each time an attack made with this weapon is allocated to a VEHICLE model, that attack has a Damage characteristic of D3+3
+
+| Melee Weapons | Abilities | IM | A | S | AP | D | Cost |
+| ----- | ---- | --- | --- | --- | --- | --- | --- |
+| Canoptek tail blades | Extra Attacks | 0 | D6 | 5 | -2 | 1 |
+| Spear of the Void Dragon | Voltaic, Armorbane | 0 | 5 | 8 | -3 | 3 |
+
+##### Abilities
+- Reanimation Protocols
+- Necrodermis
+- Matter Absorption:After this unit makes an attack, if that attack does internal damage to a vehicle this model regains 1 wounds(to a maximum of 3 regained wounds per turn). 
+- Reality Unravels: When this model is destroyed, roll one D6 before removing it from play. On a 4+ it explodes, and each unit with 6" suffers d3 mortal wounds. 
+- Enslaved Star god:This model may never have a Relic or a Warlod Trait, and cannot be selected as your warlord. 
+
+##### C'tan Powers
+This unit knows the Voltaic Storm C'tan power and one other C'tan power from the Powers of the C'tan. This unit can use up to two of the C'tan powers it knows each turn. 
+
+##### Unit Composition
+- 1 C'tan Shard of the Void Dragon \
+Every model is equipped with Spear of the Void Dragon, Canoptek tail blades. 
+##### Unit Cost
+- 1 Models: 350pts
+
+##### Keywords NECRONS, MONSTER, CHARACTER, FLY, C'TAN SHARD, EPIC HERO, C'TAN SHARD OF THE VOID DRAGON
 
 ## Mounted
 ### Lokhust Destroyers
+| M | BS | WS | T | W | Sv | Inv | I | AC | Ld | CL | Wil | Int | OC |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
+| 8" | 4 | 4 | 5 | 3 | 3+ | N/A | 4 | 3 | 11+ | 5+ | 7+ | 11+ | 1 |
+
+##### Weapons
+| Ranged Weapons | Abilites | Short Range | Medium Range | Long Range | A | S | AP | D | Cost |
+| ------ | ---- | ---- | ---- | ---- | --- | --- | --- | --- | --- |
+| Gauss Cannon | Rending 6+ Heavy(D) | 12" | 18" | 24" | 3 | 5 | -2 | 1 | |
+
+
+
+| Melee Weapons | Abilities | IM | A | S | AP | D | Cost |
+| ----- | ---- | --- | --- | --- | --- | --- | --- |
+| Close combat weapon | | 0 | 2 | 4 | 0 | 1 |
+
+
+
+##### Abilities
+- Reanimation Protocols
+- Hardwired for Destruction
+
+##### Unit Composition
+- 1-6 Lokhust Destroyers \
+Every model is equipped with Gauss Cannon, Close Combat Weapon
+##### Unit Cost
+- 1 Models: 40pts
+- 2 Models: 60pts
+- 3 Models: 90pts
+- 6 Models: 180pts
+##### Keywords NECRONS, MOUNTED, FLY, DESTROYER CULT, LOKHUST DESTROYERS
+
 ### Heavy Lokhust Destroyers
+| M | BS | WS | T | W | Sv | Inv | I | AC | Ld | CL | Wil | Int | OC |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
+| 8" | 4 | 4 | 5 | 4 | 3+ | N/A | 4 | 3 | 11+ | 5+ | 7+ | 11+ | 1 |
+
+##### Weapons
+| Ranged Weapons | Abilites | Short Range | Medium Range | Long Range | A | S | AP | D | Cost |
+| ------ | ---- | ---- | ---- | ---- | --- | --- | --- | --- | --- |
+| Gauss Destructor | Rending 6+ Heavy(S) | 36" | 48" | 60" | 1 | 9 | -3 | 2D3 | 
+| Enmetic Exterminator | Sustained Fire 3 Heavy(S) | 36" | 48" | 60" | 6 | 5 | -2 | 1 | 
+
+
+| Melee Weapons | Abilities | IM | A | S | AP | D | Cost |
+| ----- | ---- | --- | --- | --- | --- | --- | --- |
+| Close combat weapon | | 0 | 2 | 4 | 0 | 1 |
+
+##### Wargear Options
+- Any number of models can each have their gauss destructor replaced with 1 enmitic exterminator. 
+
+##### Abilities
+- Reanimation Protocols
+- Hardwired for Destruction
+
+##### Unit Composition
+- 1-3 Lokhust Heavy Destroyers \
+Every model is equipped with Gauss Destructor, Close Combat Weapon
+##### Unit Cost
+- 1 Models: 60pts
+- 2 Models: 120pts
+- 3 Models: 180pts
+
+##### Keywords NECRONS, MOUNTED, FLY, DESTROYER CULT, LOKHUST HEAVY DESTROYERS
 
 ## Titanic
 ### Monolith

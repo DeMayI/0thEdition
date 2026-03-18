@@ -7,6 +7,8 @@ description: An overview of Necron Army Rules
 If your army faction is NECRONS, during your command phase, all units with this ability activate its reanimation protocols. When a unit activates reanimation protocols it reanimates d3 wounds. Each time a unit reanimates a wound: 
 - If that unit containes one or more models with fewer than their starting number of wounds remaining, select one of those models; that model regains one lost wound
 - If all models in that unit have their startin number of wounds but the unit is not at its starting strength, one destroyed model is returned to that unit with 1 wound remaining. 
+- If that unit has the VEHICLE KEYWORD and has suffered internal damage, select one location that has suffered internal damage; that location regains 1 IP.
+- If that unit has the VEHICLE KEYWORD, and has suffered hull damage but no internal damage, select one location that has suffered hull damage; that location regains 1 HP. 
 
 
 ## Army Protocols
@@ -121,7 +123,30 @@ When: Activation Phase, just after an enemy unit has declared its attacks(ranged
 Target: NECRON VEHICLE with the Quantum Shielding ability that was selected as the target of one or more attacks \
 Effect: Until the end of the phase, models in the unit have a 4+ Invulnerable save instead of a 5+. 
 
+## C'Tan Powers
+Before the battle, generate Powers of the C'tan for C'TAN SHARD units from your army using the table below. Each of the powers may be activated as a 1 AC action and can only be used once per turn. You may either roll one D6 or select which powers each unit knows. A power cannot be selected for a second time until all other powers have been selected at least once. 
 
+1. Antimatter Meteor
+Roll one D6, adding 1 to the roll if this unit has the TESSERACT VAULT keyword. on a 3-5, the closes enemy unit within 24" of and visible to this C'TAN SHARD suffers 3 mortal wounds; on a 6+ that enemy unit suffers D3+3 mortal wounds. 
+2. Time's Arrow
+Select one enemy unit within 18" and visible to this C'TAN SHARD. Roll one D6, adding 1 to the roll if this unit has the TESSERACT VAULT keyword. if the total equals or exceeds the Wounds characteristic of any models in that enemy unit, your opponent selects one of those models to be destroyed.
+3. Sky of Falling Stars
+Select up to three units within 24" of this C'TAN SHARD. For each of these units, roll one d6:on a 1-5 if the dice result is less than the number of models in that unit, that unit suffers D3 mortal wounds. If this unit has the TESSERACT VAULT keyword, that unit suffers 3 mortal wounds instead. 
+4. Cosmic Fire
+Roll one D6 for each enemy unit within 9" of this C'TAN SHARD: on a 4+ that unit suffers D3 mortal wounds. If this unit has the TESSERACT VAULT keyword, that unit suffers 3 mortal wounds instead. 
+5. Seismic Assault
+Select one enemy unit within 18" of and visible to this C'TAN SHARD: roll one D6 for each model in that unit, adding 1 to the roll if this unit has the TESSERACT VAULT keyword. For each 6+, that unit suffers 1 mortal wound to a maximum of 10 mortal wounds. 
+6. Transdimensional Thunderbolt 
+Select one enemy unit within 24" and visible to this C'TAN SHARD, abiding by the restrictions of Look out Sir. Roll one D6: on a 2+ that unit suffers D3 mortal wounds. Then roll one D6 for each other enemy unit within 3" of the selected unit: on a 4+ that unit suffers 1 mortal wound. if this unit has the TESSERACT VAULT keyword, roll for each other enemy unit within 6" instead of 3"
+### Unique C'tan Powers
+#### C'TAN SHARD OF THE DECIEVER-COSMIC INSANITY
+Select one enemy unit within 12" to and visible to this C'TAN SHARD. Roll one D6 and subtract this C'TAN SHARD's willpower to the result. Your opponent then rolls one D6 and adds the Willpower charactersitic of the selected unit to the result. That enemy unit suffers 1 mortal wound for each point by which your total is less than your opponents. 
+
+#### C'TAN SHARD OF THE NIGHTBRINGER-GAZE OF DEATH
+Select 1 enemy unit within 9" and visible to this C'TAN SHARD. Roll three d6s: for each 4+ that unit suffers D3 mortal wounds. 
+
+#### C'TAN SHARD OF THE VOID DRAGON-VOLTAIC STORM
+Select one enemy unit within 18" of and visible to this C'tan Shard abiding by the restrictions of Look out sir. Roll one D6: on a 2+ that unit suffers D3 mortal wounds, or D3+2 mortal wouds if it has the VEHICLE KEYWORD.  If that unit has the vEHICLE KEYWORD, until that unit has finished its next activation, subtract 1 from AC characteristic of that unit.
 
 ## Detachments
 
