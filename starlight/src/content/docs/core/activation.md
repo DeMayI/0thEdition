@@ -41,7 +41,7 @@ The unit can move up to its movement characteristic with and can rotate for free
 The unit can move up to twice your movement characteristic, with the same restrictions as the Move Action. A unit can only run so long as it has not made a Move or Fallback action in the same turn. Until the end of turn, this unit is has a -1 to hit modifier when making ranged attacks and cannot fire any weapons with the HEAVY ability, or perform the Charge action. 
 
 #### Fallback (AC:2):
-The unit can move up to its movement charactersitic with the same restrictions as the Move Action, but it can leave/enter Engagement Range so long as it doesn't end that move in Engagement Range. Until the end of the turn, this unit is battleshocked and any ranged attacks it makes hit on an umodifiable 6+. 
+The unit can move up to its movement charactersitic with the same restrictions as the Move Action, but it can leave/enter Engagement Range so long as it doesn't end that move in Engagement Range. Until the end of the turn, this unit is battleshocked and any ranged attacks it makes hit on an umodifiable 6+, and unable to perform a Charge action. 
 
 #### Take Aim (AC:1):
 Until the end of the turn, add 1 to this units Ballistic Skill.

@@ -107,7 +107,7 @@ Aeonstave: Invulnerable saving throws cannot be taken against weapons with this 
 
 ##### Abilities
 - Reanimation Protocols
-- Chronometron(Command Protocol): When a unit comes under the effect of this ability, it has a 5+ invulnerable save. 
+- Chronometron(Command Protocol): When a unit is under the effect of this ability, it has a 5+ invulnerable save. 
 
 ##### Unit Composition
 - 1 Chronomancer \
@@ -116,15 +116,15 @@ Every model is equipped with a aeonstave and chronotendrils.
 - 1 Models: 75pts
 
 ##### Keywords NECRONS, INFANTRY, CHARACTER, CRYPTEK, CHRONOMANCER
-### Plasmancer
+### Royal Warden
 | M | BS | WS | T | W | Sv | Inv | I | AC | Ld | CL | Wil | Int |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 6" | 6 | 6 | 4 | 4 | 3+ | N/A | 4 | 3 | 7+ | 5+ | 6+ | 4+ |
+| 6" | 6 | 6 | 5 | 4 | 3+ | N/A | 4 | 3 | 7+ | 5+ | 6+ | 4+ |
 
 ##### Weapons
 | Ranged Weapons | Abilites | Short Range | Medium Range | Long Range | A | S | AP | D | Cost |
 | ------ | ---- | ---- | ---- | ---- | --- | --- | --- | --- | --- |
-| Plasmic Lance(shooting) | | 9" | 12" | 18" | D3 | 7 | -3 | 2 | |
+| Relic Gauss Blaster | | 9" | 12" | 18" | D3 | 7 | -3 | 2 | |
 
 
 
@@ -136,7 +136,7 @@ Every model is equipped with a aeonstave and chronotendrils.
 
 ##### Abilities
 - Reanimation Protocols
-- Harbinger of Destruction(Command Protocol): When a unit comes under the effect of this ability, improve the X in rending and tesla weapons by 1. (IE Rending 6+ -> Rending 5+, Tesla 1 -> Tesla 2)
+- Harbinger of Destruction(Command Protocol): When a unit is under the effect of this ability, improve the X in rending and tesla weapons by 1. (IE Rending 6+ -> Rending 5+, Tesla 1 -> Tesla 2)
 - Living Lighting:This unit may activate this ability as a 1 AC action, if they do then select 1 enemy unit within 24" visible to this unit(abiding by the restrictions of Look Out Sir). Roll 4 D6: for each 4+, that enemy unit suffers 1 mortal wound. 
 
 ##### Unit Composition
@@ -144,6 +144,36 @@ Every model is equipped with a aeonstave and chronotendrils.
 Every model is equipped with a Plasmic Lance
 ##### Unit Cost
 - 1 Models: 75pts
+
+##### Keywords NECRONS, INFANTRY, CHARACTER, CRYPTEK, PLASMANCER
+### Plasmancer
+| M | BS | WS | T | W | Sv | Inv | I | AC | Ld | CL | Wil | Int |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 6" | 6 | 6 | 4 | 4 | 3+ | N/A | 4 | 3 | 7+ | 5+ | 6+ | 4+ |
+
+##### Weapons
+| Ranged Weapons | Abilites | Short Range | Medium Range | Long Range | A | S | AP | D | Cost |
+| ------ | ---- | ---- | ---- | ---- | --- | --- | --- | --- | --- |
+| Relic Gauss Blaster | Rending 6+ | 15" | 24" | 30" | 4 | 5 | -2 | 2 | |
+
+
+
+| Melee Weapons | Abilities | IM | A | S | AP | D | Cost |
+| ----- | ---- | --- | --- | --- | --- | --- | --- |
+| Close Combat weapon |  | 0 | 3 | 5 | 0 | 1 |
+
+
+
+##### Abilities
+- Reanimation Protocols
+- Adaptive Strategy(Command Protocol): When a unit comes is the effect of this ability, when that unit performs a fall-back action, it does not become battleshocked and can fire at full BS.(IE it does not have to hit on 6+)
+- Relentless March(Aura): While a friendly NECRONS  unit is within 6" of this model (Excluding C'TAN SHARD units), add 1 to the Move characteristic of models in that unit.
+
+##### Unit Composition
+- 1 Royal Warden \
+Every model is equipped with a Relic Gauss Blaster and Close Combat weapon. 
+##### Unit Cost
+- 1 Models: 50pts
 
 ##### Keywords NECRONS, INFANTRY, CHARACTER, CRYPTEK, PLASMANCER
 ## Battleline
