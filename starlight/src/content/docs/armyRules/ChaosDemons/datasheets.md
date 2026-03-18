@@ -64,7 +64,7 @@ This model can attempt to manifest two psychic powers  and attempt to deny one p
 ##### Weapons
 | Ranged Weapons | Abilites | Short Range | Medium Range | Long Range | A | S | AP | D | Cost |
 | ------ | ---- | ---- | ---- | ---- | --- | --- | --- | --- | --- |
-| Bloodflail | Assault Breaching 5+ | 4" | 6" | 8" | 1 | 8 | -3 | 2 | |
+| Bloodflail | Assault Breaching 5+ | 4" | 6" | 8" | 1 | 8 | -2 | 2 | |
 | Hellfire breath | INGORES COVER TORRENT | 8" | 12" | 16" | D6 | 3 | -1 | 1 | |
 | Lash of Khorne | Assault | 10" | 12" | 14" | 6 | 6 | -1 | 1 | |
 

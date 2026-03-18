@@ -18,12 +18,12 @@ description: A list of necron datasheets
 
 | Melee Weapons | Abilities | IM | A | S | AP | D | Cost |
 | ----- | ---- | --- | --- | --- | --- | --- | --- |
-| Hyperphase glaive | | 0 | 4 | 7 | -3 | 2 |
-| Hyperphase sword | | 1 | 4 | 6 | -3 | 1 |
+| Hyperphase glaive | | 0 | 4 | 7 | -2 | 2 |
+| Hyperphase sword | | 1 | 4 | 6 | -2 | 1 |
 | Staff of light(melee) | | 0 | 4 | 5 | -2 | 1 |
-| Voidblade | | 1 | 5 | 5 | -3 | 1 |
-| Voidscythe | | -1 | 4 | 8 | -4 | 3 | 10pts |
-| Warscythe | | 0 | 4 | 7 | -3 | 2 |
+| Voidblade | | 1 | 5 | 5 | -2 | 1 |
+| Voidscythe | | -1 | 4 | 8 | -3 | 3 | 10pts |
+| Warscythe | | 0 | 4 | 7 | -2 | 2 |
 
 ##### Other Wargear
 - Resurrection Orb(25pts): Once per battle the bearer may use this relic as a 1 AC action. Select one friendly NECRON INFANTRY unit with 6" of the bearer(Excluding C'TAN SHARD units). That units resurrection protocols activate, but it reanimates d3+3 instead of d3. 
@@ -97,7 +97,7 @@ Aeonstave: Invulnerable saving throws cannot be taken against weapons with this 
 | Melee Weapons | Abilities | IM | A | S | AP | D | Cost |
 | ----- | ---- | --- | --- | --- | --- | --- | --- |
 | Aeonstave(melee) | Aeonstave | 0 | 1 | 4 | -2 | 1 |
-| Entropic lance(melee) | Aeonstave | 0 | 1 | 4 | -3 | 2 | 10pts |
+| Entropic lance(melee) | Aeonstave | 0 | 1 | 4 | -2 | 2 | 10pts |
 | Chronotendrils | Extra Attacks | 0 | 3 | 4 | 0 | 1 |
 
 
@@ -252,8 +252,8 @@ Every model is equipped with Gauss Blaster, Close Combat Weapon
 ##### Weapons
 | Melee Weapons | Abilities | IM | A | S | AP | D | Cost |
 | ----- | ---- | --- | --- | --- | --- | --- | --- |
-| Hyperphase reap-blade | Cleave 2" | -3 | 3 | 8 | -4 | 2 |
-| Hyperphase threshers | | 0 | 4 | 5 | -3 | 1 |
+| Hyperphase reap-blade | Cleave 2" | -3 | 3 | 8 | -3 | 2 |
+| Hyperphase threshers | | 0 | 4 | 5 | -2 | 1 |
 | Monomolecular proboscis | | 0 | 1 | 4 | -1 | 1 |
 
 
@@ -277,8 +277,8 @@ The Canoptek Plasmacyte is equipped with monomelcular probscis.
 ##### Weapons
 | Melee Weapons | Abilities | IM | A | S | AP | D | Cost |
 | ----- | ---- | --- | --- | --- | --- | --- | --- |
-| Warscythe | | 0 | 3 | 7 | -3 | 2 |
-| Hyperphase Sword | | 0 | 3 | 5 | -3 | 1 |
+| Warscythe | | 0 | 3 | 7 | -2 | 2 |
+| Hyperphase Sword | | 0 | 3 | 5 | -2 | 1 |
 
 ##### Wargear Abilities
 Dispersion Shield:The bearer has a 4+ invulnerable save
@@ -325,9 +325,74 @@ Every model is equipped with Flayer Claws.
 
 ## Vehicles
 ### Canoptek Doomstalker
+| M | BS | WS | I | AC | Ld | CL | Wil | Int |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
+| 8" | 3 | 3 | 1 | 3 | 10+ | 6+ | 10+ | 10+ |
+
+###### Hit Table
+| D6 Result | Location Hit |
+| ---- | ---- |
+| 1-4 | Legs |
+| 3-6 | Main Body |
+
+###### Armor Table
+| Location | Front | Side | Rear | HP | IP |
+| ---- | --- | --- | --- | --- | --- |
+| Legs | 9 | 9 | 9 | 4 | 4 |
+| Main Body | 10 | 10 | 10 | 4 | 5 |
+
+##### Weapons
+| Ranged Weapons | Abilites | Short Range | Medium Range | Long Range | A | S | AP | D | Cost |
+| ------ | ---- | ---- | ---- | ---- | --- | --- | --- | --- | --- |
+| Doomsday Blaster | Blast Heavy(BS) | 24" | 36" | 48" | D6+2 | 8 | -3 | 2 | |
+| Twin gauss flayer | Rending 6+ | 12" | 18" | 24" | 4 | 4 | -1 | 1 | |
+
+
+| Melee Weapons | Abilities | IM | A | S | AP | D | Cost |
+| ----- | ---- | --- | --- | --- | --- | --- | --- |
+| Doomstalker limbs | | 0 | 3 | 5 | -1 | 1 |
+
+##### Abilities
+- Reanimation Protocols
+- Quantum Shielding
+- Sentinel Construct: Each time this unit performs an overwatch action, you may ignore the -1 to hit modifier.  
+
+##### Unit Composition
+- 1 Canoptek Doomstalker \
+This model is equipped with: Doomsday Blaster; Twin gauss flayer; Doomstalker Limbs. 
+##### Unit Cost
+- 1 Model: 140pts
+##### Keywords NECRONS, VEHICLE, WALKER, CANOPTEK, DOOMSTALKER
 
 ## Monsters
 ### C'tan Shard of the Nightbringer
+| M | BS | WS | T | W | Sv | Inv | I | AC | Ld | CL | Wil | Int |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 8" | 10 | 10 | 8 | 10 | 3+ | 4+ | 4 | 4 | 11+ | 4+ | 6+ | 6+ |
+
+##### Weapons
+| Melee Weapons | Abilities | IM | A | S | AP | D | Cost |
+| ----- | ---- | --- | --- | --- | --- | --- | --- |
+| Scythe of the Nightbringer-Entropic Blow | Entropic Blow | -1 | 6 | 12 | -4 | D3+2 |
+| Scythe of the Nightbringer-Reaping Sweep | Cleave 3" | -1 | 12 | 7 | -2 | 1 |
+
+Entropic Blow:Each time an attack is made with this weapon, invulnerable saving throws cannot be made against that attack. 
+
+##### Abilities
+- Reanimation Protocols
+- Necrodermis
+- Drain life: Each time this model makes a melee attack that is allocated to an enemy model, that model cannot use any rules to ignore the wounds it loses.(IE no FNPs and -1 damage does not apply just like in 9th).
+- Gaze of Death:This unit may activate this ability once per turn as a 1 AC action. When this ability is activated, select 1 enemy unit within 9" and visible to this C'TAN SHARD. Roll 3 d6s: for each 4+ that unit suffers D3 mortal wounds. 
+- Reality Unravels: When this model is destroyed, roll one D6 before removing it from play. On a 4+ it explodes, and each unit with 6" suffers d3 mortal wounds. 
+- Enslaved Star god:This model may never have a Relic or a Warlod Trait, and cannot be selected as your warlord. 
+
+##### Unit Composition
+- 1 C'tan Shard of the Nightbringer \
+Every model is equipped with Scythe of the Nightbringer. 
+##### Unit Cost
+- 1 Models: 360pts
+
+##### Keywords NECRONS, MONSTER, CHARACTER, FLY, C'TAN SHARD, EPIC HERO, C'TAN SHARD OF THE NIGHTBRINGER
 ### C'tan Shard of the Void Dragon
 
 ## Mounted

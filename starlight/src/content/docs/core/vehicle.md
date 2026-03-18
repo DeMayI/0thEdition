@@ -18,7 +18,7 @@ Unlike normal melee combat, unless the vehicle has the WALKER keyword, do not ma
 ### Armor Facing and Damage
 Once a hit location is determined, you must determine which armor facing to use for that attack. If the attacking model is in the Front 90 Degrees of the defending model, use the Front armor value of that location. If the attacking model is in the Rear 90 Degrees of the defending model, use the Rear armor value of that location. Otherwise, use the Side armor value of that location.
 
-Then roll one D6 and add the weapons strength to the result. If the result is greater than or equal to the armor value of the location the armor has been successfully penetrated. Otherwise the attack fails to penetrate the armor and the attack sequence ends.
+Then roll one D6 and add the weapons strength to the result. If the result is greater than or equal to the armor value of the location the armor has been successfully penetrated. Otherwise the attack fails to penetrate the armor and the attack sequence ends. If the vehicle has an invulnerable saves, it must take them before any penetration tests. 
 
 If the armor is successfully penetrated, for each point of damage, subtract 1 from that locations Hull Points. Once there are no Hull Points remaining, instead subtract 1 from that locations Internal Points for each remaining point of damage. For each attack that does damage to a vehicles internal structure or an umodified 6 was rolled on a successful penetration test, roll 1 D6 on that locations critical damage table below. Once a location has no Internal Points remaining, it is considered destroyed. 
 
@@ -27,6 +27,7 @@ When a location is destroyed, any functions/weapons associated with that locatio
 ### Cover
 Monsters and Vehicles can provide cover to nearby infantry. If an INFANTRY model is not fully visible to the attacking unit as a result of a MONSTER/VEHICLE, then that model has a 6+ Cover Save. If the MONSTER/VEHICLE has the TITANIC keyword, the model instead has a 5+ Cover Save. 
 
+If a vehicle has a cover save, they can take it before any penetration tests are rolled. 
 
 ### Critical Damage Tables
 

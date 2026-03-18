@@ -11,6 +11,7 @@ Your whole army! make something fun and flavorful that represents the entirety o
 
 What is allowed:
 Pretty much everything so long as its not overpowered! The goal however is to heavily limit rerolls, so reserve them for when you feel like they realy deserve rerolls.(like a primarch for example)  Rember a high WS/BS gives you some rerolls!
+Our goal is also to limit/avoid the use of anti weapons, as its just more fun/interesting when the opponents stats actually matter. 
 
 ### Secondary Army Rules
 Secondary Army rules that only affect specific units from your army(like in order to represent a specific subfaction in you rules) are also allowed! 
