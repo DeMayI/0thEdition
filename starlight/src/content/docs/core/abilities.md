@@ -4,7 +4,7 @@ description: An overview of all the generic abilities
 ---
 
 ### Heavy X
-If the unit has remained stationary, improve the characteristic denoted by X by 1. If X is an ability, the weapon now has that ability until the end of the turn. 
+If the unit has remained stationary, improve the characteristic denoted by X by 1. If X is an ability, the weapon now has that ability until the end of the turn.
 
 ### Sustained Fire X
 You MAY Roll X D6. For each dice, consult the table below
@@ -52,7 +52,7 @@ Units with this ability can be set up anywhere on the board not within the enemy
 Units this abilty may make a move up to X at the start of the game but must end their move move than 9 inches away from any enemy units. If both players have units with this ability, roll off. Alternate between moving scout units starting with the player who won the roll. 
 
 ### Blast
-Weapons with this ability may not be fired within engagement range or into units that are within engagement range of one or more units from your army. When targeting non MONSTER/VEHICLE units, for every 5 models in the target unit that are visible to this unit, add 1 to the attacks charactersitic of this weapon. If the target unit has the MONSTER/VEHICLE keyword, add 3 to the attacks characteristic instead. 
+Weapons with this ability may not be fired within engagement range or into units that are within engagement range of one or more units from your army. When targeting non MONSTER/VEHICLE units, for every 5 models in the target unit that are visible to this unit, add 1 to the attacks charactersitic of this weapon. Alternatively, if the target unit has the MONSTER/VEHICLE keyword, add 3 to the attacks characteristic instead(not per every 5 models)
 
 ### Ignores Cover
 Cover Saves cannot be taken against weapons with this ability
@@ -68,4 +68,7 @@ Weapons with this ability may always be used when the unit fights in addition to
 
 ### X Shot
 Weapons with this ability may only be fired X times per battle. 
+
+### Pinning
+If this unit scores 5 or more hits against an enemy unit with weapons with this ability, until the end of that units next activation that unit is Pinned.
 

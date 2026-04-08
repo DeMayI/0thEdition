@@ -243,7 +243,7 @@ Every model is equipped with Gauss Blaster, Close Combat Weapon
 ### Skorpekh Destroyers
 | M | BS | WS | T | W | Sv | Inv | I | AC | Ld | CL | Wil | Int | OC |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
-| 8" | 4 | 4 | 5 | 3 | 3+ | N/A | 4 | 3 | 11+ | 5+ | 11+ | 11+ |
+| 8" | 4 | 4 | 5 | 2 | 3+ | N/A | 4 | 3 | 11+ | 5+ | 11+ | 11+ |
 #### Plasmacyte
 | M | BS | WS | T | W | Sv | Inv | I | AC | Ld | CL | Wil | Int | OC |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
@@ -267,6 +267,10 @@ Every model is equipped with Gauss Blaster, Close Combat Weapon
 - 0-1 Canoptek Plasmacyte \
 For every 3 models in this unit, one model is equipped with hyperhase reap-blade. Every other Skorpekh Destroyer is equipped with hyperhase threshers. \
 The Canoptek Plasmacyte is equipped with monomelcular probscis. 
+##### Unit Cost
+- 3 Skorpekhs: 90pts
+- 6 Skorpekhs: 180pts
+- 1 Plasmacyte: +15pts
 ##### Keywords NECRONS, INFANTRY, DESTROYER CULT, SKORPEKH DESTROYERS
 
 ### Lychguard
@@ -301,7 +305,7 @@ Every model is equipped with Gauss Blaster, Close Combat Weapon
 ### Flayed Ones
 | M | BS | WS | T | W | Sv | Inv | I | AC | Ld | CL | Wil | Int | OC |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
-| 5" | 4 | 4 | 4 | 1 | 4+ | N/A | 4 | 3 | 11+ | 6+ | 11+ | 11+ | 1 |
+| 5" | 4 | 4 | 4 | 1 | 4+ | N/A | 4 | 2 | 11+ | 6+ | 11+ | 11+ | 1 |
 
 ##### Weapons
 | Melee Weapons | Abilities | IM | A | S | AP | D | Cost |
@@ -435,7 +439,7 @@ Every model is equipped with Spear of the Void Dragon, Canoptek tail blades.
 ### Lokhust Destroyers
 | M | BS | WS | T | W | Sv | Inv | I | AC | Ld | CL | Wil | Int | OC |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
-| 8" | 4 | 4 | 5 | 3 | 3+ | N/A | 4 | 3 | 11+ | 5+ | 7+ | 11+ | 1 |
+| 8" | 4 | 4 | 5 | 2 | 3+ | N/A | 4 | 3 | 11+ | 5+ | 7+ | 11+ | 1 |
 
 ##### Weapons
 | Ranged Weapons | Abilites | Short Range | Medium Range | Long Range | A | S | AP | D | Cost |
@@ -467,7 +471,7 @@ Every model is equipped with Gauss Cannon, Close Combat Weapon
 ### Heavy Lokhust Destroyers
 | M | BS | WS | T | W | Sv | Inv | I | AC | Ld | CL | Wil | Int | OC |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
-| 8" | 4 | 4 | 5 | 4 | 3+ | N/A | 4 | 3 | 11+ | 5+ | 7+ | 11+ | 1 |
+| 8" | 4 | 4 | 5 | 3 | 3+ | N/A | 4 | 3 | 11+ | 5+ | 7+ | 11+ | 1 |
 
 ##### Weapons
 | Ranged Weapons | Abilites | Short Range | Medium Range | Long Range | A | S | AP | D | Cost |

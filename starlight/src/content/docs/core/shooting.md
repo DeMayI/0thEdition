@@ -27,7 +27,7 @@ A unit is not eligible to shoot with any weapons without the PISTOL ability whil
 MONSTER and VEHICLE units are the exception to this rule, as described below. 
 
 ### Big Guns Never Tire
-MONSTER AND VEHICLE units are eligible to shoot even while within Engagement Range of one or more enemy models, however, unless the attacks are made with a PISTOL or the unit has the TITANIC keyword, subtract 1 from that attack's Hit roll. You can select an enemy MONSTER or VEHICLE unit that is within Engagement as a valid target, however unless that attack is made with a PISTOL, subtract one from that attack's Hit roll. 
+MONSTER AND VEHICLE units are eligible to shoot even while within Engagement Range of one or more enemy models, however, unless the attacks are made with a PISTOL or the unit has the TITANIC keyword, subtract 1 from that attack's Hit roll. You can select an enemy MONSTER or VEHICLE unit that is within Engagement as a valid target, however unless that attack is made with a PISTOL, subtract one from that attack's Hit roll. This effect does not stack(ie if a monster shoots a monster in melee it is only -1 to hit, not -2). 
 
 
 
